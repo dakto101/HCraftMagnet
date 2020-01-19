@@ -1,0 +1,12 @@
+name: HCraftMagnet
+main: me.dakto101.HCraftMagnet
+version: 1.0
+depend: 
+softdepend: []
+commands:
+    magnet:
+        description: Nam cham hut do.
+        usage: /<command>
+    hcraftmagnet:
+        description: Nam cham hut do.
+        usage: /<command>
